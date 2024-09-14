@@ -4,5 +4,5 @@ Name: Cian
 
 Email: cian.carter@wsu.edu
 
-Resume: file:///C:/Users/lcd39/Downloads/Resume_1%20(2).pdf
+Resume: https://1drv.ms/b/c/129235d55247eeaa/Ebkyk7Uu3EtLgI0PI1iosYsBGmthxvgzvnMot6XzOXSPrg?e=JTh4Kx
 
